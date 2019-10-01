@@ -17,7 +17,7 @@ USE's goals are:
 - for now, focus on Unreal running on mobile devices (iOS, Android);
 - in English;
 
-For more infomation, see USE's [Readme](unreal_source_explained/README.md).
+For more infomation, see USE's [repo](https://github.com/donaldwuid/unreal_source_explained) in github.
 
 <!-- 
 ## Welcome to GitHub Pages
