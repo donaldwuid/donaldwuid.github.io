@@ -1,8 +1,23 @@
-## Welcome to DonaldW's Github Pages
+
+## Personal Info
+I'm a game developer.
 
 ## Unreal Source Explained:
-- [Readme](unreal_source_explained/README.md)
-- [Main content](unreal_source_explained/main/main.md)
+
+*Unreal Source Explained (USE)* is an Unreal source code analysis, based on profilers.
+
+USE is just one [markdown file](unreal_source_explained/main/main.md).
+
+USE's goals are:
+- look inside the Unreal engine source;
+- cover all submodules (loop, memory, render, animation, physics, ...)
+- overview then detailed;
+- quantitative analysis;
+- accurate explanation;
+- for now, focus on Unreal running on mobile devices (iOS, Android);
+- in English;
+
+For more infomation, see USE's [Readme](unreal_source_explained/README.md).
 
 <!-- 
 ## Welcome to GitHub Pages
